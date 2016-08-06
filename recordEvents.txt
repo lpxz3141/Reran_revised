@@ -1,0 +1,71 @@
+add device 1: /dev/input/event8
+  name:     "sec_jack"
+add device 2: /dev/input/event6
+  name:     "proximity_sensor"
+add device 3: /dev/input/event5
+  name:     "alps_compass"
+add device 4: /dev/input/event4
+  name:     "mpu6050_input"
+add device 5: /dev/input/event7
+  name:     "U8500-card AB8500 Hs Status"
+add device 6: /dev/input/event9
+  name:     "uUSB button"
+add device 7: /dev/input/event3
+  name:     "AB8500 POn(PowerOn) Key"
+add device 8: /dev/input/event0
+  name:     "gpio-keys"
+add device 9: /dev/input/event1
+  name:     "sec_touchkey"
+add device 10: /dev/input/event2
+  name:     "sec_touchscreen"
+[    4771.389436] /dev/input/event2: 0003 0039 0000002b
+[    4771.389436] /dev/input/event2: 0003 0030 00000002
+[    4771.389436] /dev/input/event2: 0003 003a 00000021
+[    4771.389436] /dev/input/event2: 0003 0035 000001af
+[    4771.389436] /dev/input/event2: 0003 0036 0000009a
+[    4771.389466] /dev/input/event2: 0003 003d 00000002
+[    4771.389466] /dev/input/event2: 0000 0000 00000000
+[    4771.431398] /dev/input/event2: 0003 0039 ffffffff
+[    4771.431489] /dev/input/event2: 0000 0000 00000000
+[    4773.202541] /dev/input/event2: 0003 0039 0000002c
+[    4773.202571] /dev/input/event2: 0003 0030 00000004
+[    4773.202571] /dev/input/event2: 0003 003a 00000027
+[    4773.202571] /dev/input/event2: 0003 0035 000001c9
+[    4773.202571] /dev/input/event2: 0003 0036 0000003a
+[    4773.202571] /dev/input/event2: 0000 0000 00000000
+[    4773.310103] /dev/input/event2: 0003 0039 ffffffff
+[    4773.310225] /dev/input/event2: 0000 0000 00000000
+[    4774.719717] /dev/input/event2: 0003 0039 0000002d
+[    4774.719747] /dev/input/event2: 0003 0030 00000003
+[    4774.719747] /dev/input/event2: 0003 003a 0000002d
+[    4774.719747] /dev/input/event2: 0003 0035 000000ed
+[    4774.719747] /dev/input/event2: 0003 0036 00000271
+[    4774.719747] /dev/input/event2: 0000 0000 00000000
+[    4774.835130] /dev/input/event2: 0003 0039 ffffffff
+[    4774.835283] /dev/input/event2: 0000 0000 00000000
+[    4774.921675] /dev/input/event2: 0003 0039 0000002e
+[    4774.921706] /dev/input/event2: 0003 0030 00000004
+[    4774.921706] /dev/input/event2: 0003 003a 00000038
+[    4774.921706] /dev/input/event2: 0003 0035 000000f6
+[    4774.921706] /dev/input/event2: 0003 0036 00000269
+[    4774.921706] /dev/input/event2: 0003 003d 00000001
+[    4774.921706] /dev/input/event2: 0000 0000 00000000
+[    4775.017590] /dev/input/event2: 0003 0039 ffffffff
+[    4775.017712] /dev/input/event2: 0000 0000 00000000
+[    4776.903531] /dev/input/event2: 0003 0039 0000002f
+[    4776.903531] /dev/input/event2: 0003 0030 00000002
+[    4776.903531] /dev/input/event2: 0003 003a 0000001b
+[    4776.903531] /dev/input/event2: 0003 0035 000001cc
+[    4776.903531] /dev/input/event2: 0003 0036 0000003f
+[    4776.903531] /dev/input/event2: 0003 003d 00000002
+[    4776.903531] /dev/input/event2: 0000 0000 00000000
+[    4777.059079] /dev/input/event2: 0003 0039 ffffffff
+[    4777.059231] /dev/input/event2: 0000 0000 00000000
+[    4781.164517] /dev/input/event2: 0003 0039 00000030
+[    4781.164517] /dev/input/event2: 0003 0030 00000003
+[    4781.164517] /dev/input/event2: 0003 003a 0000002b
+[    4781.164517] /dev/input/event2: 0003 0035 0000016d
+[    4781.164517] /dev/input/event2: 0003 0036 0000004e
+[    4781.164517] /dev/input/event2: 0000 0000 00000000
+[    4781.259792] /dev/input/event2: 0003 0039 ffffffff
+[    4781.259914] /dev/input/event2: 0000 0000 00000000
